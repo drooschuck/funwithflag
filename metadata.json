@@ -1,0 +1,5 @@
+{
+  "name": "Fun with Flags",
+  "description": "A fun and interactive quiz game to test your knowledge of world flags. Guess the country from the flag shown and see how many you can get right!",
+  "requestFramePermissions": []
+}
